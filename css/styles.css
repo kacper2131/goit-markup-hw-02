@@ -1,0 +1,86 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+}
+
+.section-color {background-color: #2E2F42;}
+
+.text-color {color: #2E2F42;}
+
+.page-title {color: #ffffff;
+            font-size: 56px;
+}
+
+.features-list .text {
+    color: #434455;
+}
+.features-list .title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.team-list .text {color: #434455;}
+.team-list .title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.portfolio-list .text {color: #434455;}
+.portfolio-list .title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.footer {background-color: #2E2F42;}
+.footer-text {color: #F4F4FD;}
+
+.team {background-color: #F4F4FD;}
+
+.button {color: #ffffff;
+        background-color: #4D5AE5;
+        font-size: 16px;
+}
+
+.nav-link .link:hover,
+.nav-link .link:focus {
+    color: #4D5AE5;
+}
+
+.adres-link .link:hover,
+.adres-link .link:focus {
+    color: #0a90de;
+}
+.nav-link .web {
+    font-size: 18px;
+    font-weight: 700;
+    color: #4D5AE5;
+}
+
+.nav-link .link {
+    font-weight: 500;
+}
+
+.adres-link .link {
+    font-weight: 400;
+}
+
+.button:hover,
+.button:focus {
+    color: rgb(24, 220, 220);
+    cursor: pointer;
+} 
+
+.nav-link .link:active {color: #0c1579;}
+.adres-link .link:active {color: #0c1579;}
+.button:active {color: #124221;}
+
+
+h2 {
+    font-size: 36px;
+}
+
+.footer .web {
+    font-size: 18px;
+    font-weight: 700;
+    color: #4D5AE5;
+}
