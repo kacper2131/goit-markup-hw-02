@@ -82,11 +82,11 @@ body {
     cursor: pointer;
 }
 
-.button:hover {
+.button:hover,
+.button:focus {
     background-color: #404BBF;
 }
 .button:active {
-    color: #404BBF;
     background-color: #404BBF;
 } 
 
