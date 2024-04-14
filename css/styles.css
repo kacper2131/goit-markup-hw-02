@@ -78,13 +78,17 @@ body {
     font-size: 16px;
 }
 
+.button { 
+    cursor: pointer;
+}
+
 .button:hover,
 .button:active {
-    color: #404BBF;
-    cursor: pointer;
+    background-color: #404BBF;
 } 
 
 .section-title {
+    font-size: 36px;
     text-transform: capitalize;
     letter-spacing: 0.02em;
     line-height: 111%;
@@ -97,12 +101,15 @@ body {
     letter-spacing: 0.02em;
 }
 .features-list .title {
+    color: #2e2f42;
+    letter-spacing: 0.02em;
     line-height: 120%;
     font-size: 20px;
     font-weight: 500;
 }
 
 .team-section{
+    font-size: 36px;
     letter-spacing: 0.02;
     background-color: #F4F4FD;
 }
@@ -120,7 +127,7 @@ body {
     font-weight: 500;
 }
 
-.team-foto {
+.team-list .foto{
     background-color: #ffffff;
 }
 
